@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a demo test case</description>
+   <name>CURA Healthcare Service Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf71fda3-6a09-4913-8902-ec43e02b8971</testCaseGuid>
+</TestCaseEntity>
